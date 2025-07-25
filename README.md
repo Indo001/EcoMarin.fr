@@ -26,7 +26,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 EcoMarin.fr – Créé par Maguelonne</p>
+    <p>&copy; 2025 EcoMarin.fr – Créé par Indo</p>
   </footer>
 
 </body>
